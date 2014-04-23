@@ -1,18 +1,21 @@
 {
-	"name"       : "angoolar-sanitize",
-	"authors"    : [ "Olen Davis <spelledlikeitsounds@gmail.com>" ],
-	"description": "This avails Angular's ngSanitize module to AngOOlar projects.",
-	"keywords"   : [
-		"angoolar",
-		"angular",
-		"sanitize",
-		"ngSanitize"
-	],
-	"license" : "MIT",
-	"homepage": "http://angoolar.com",
-	"ignore"  : [
-		"**/.*",
-		"node_modules",
-		"bower_components"
-	]
+  "name": "angoolar-sanitize",
+  "authors": [ "Olen Davis <spelledlikeitsounds@gmail.com>" ],
+  "description": "This avails Angular's ngSanitize module to AngOOlar projects.",
+  "keywords": [
+    "angoolar",
+    "angular",
+    "sanitize",
+    "ngSanitize"
+  ],
+  "license": "MIT",
+  "homepage": "http://angoolar.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angoolar": "~0.5.0"
+  }
 }
